@@ -4,4 +4,4 @@ Big Train Innovations was started in #### as the screen name for a personal onli
 
 # Disclaimer
 
-Big Train Innovations is open-source and does not sell products, goods, or services - all available materials are called "solutions". Big Train Innovations "solutions" include but are not limited to: "programs", "command-line-tools", "code packages", "code language libraries", "code frameworks", "web applications", and other software utilities. A warranty is not provided for any solution apart of the Big Train Innovations platform. By using our solutions, you are agreeing to the conditions set by the licenses associated with it.
+Big Train Innovations is open-source and does not sell products, goods, or services - all available materials are called "solutions". Big Train Innovations "solutions" include but are not limited to: "programs", "command-line-tools", "code packages", "code language libraries", "code frameworks", "web applications", and other software/compute utilities. Warranties are not provided for solutions apart of the Big Train Innovations platform. By using our solutions, you are agreeing to the conditions set by the licenses associated with it.
